@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Tervetuloa mediwikiin
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Wikistä:
 
-## Commands
+Wiki on vapaa-ajan projekti, jota pyrin päivittämään omantuntoni mukaan. Informaatio wikissä ei ole omaa tuotostani ja pyrin lähteistämään artikkelit parhaan kykyni mukaan. En takaa, että tieto wikissä on oikeaa; tiedon käyttö on ainoastaan käyttäjän omalla vastuulla.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Sivut:
+[[noac|verenohennuslääkkeet]]
+[[trombosytopenia]]
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Jaakko Raikisto
+jaakko@raikisto.fi
