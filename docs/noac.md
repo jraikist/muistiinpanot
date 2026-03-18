@@ -15,8 +15,6 @@ Apiksabaanilla vähemmän vuotohaittoja kuin rivaroksabaanilla SLT:n hoidossa. [
 
 [^101]: https://www.nejm.org/doi/full/10.1056/NEJMoa2510703
 
-[^102]: 
 
-
-#### tagit
+#### verenohennuslääkkeet - tagit
 verenohennuslääke noac apiksabaani eliquis rivaroksabaani marevan antikoagulantti keuhkoembolia flimmeri eteisvärinä laskimotukos laskimotulppa

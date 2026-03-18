@@ -1,3 +1,5 @@
 site/
 update.sh
 .obsidian
+.DS_Store
+docs/.DS_Store

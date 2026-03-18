@@ -8,3 +8,6 @@
 
 ## TTP
 Tromboottinen trombosytopenia
+
+## Lääketrombosytopenia
+![[laaketrombosytopenia.png]]
