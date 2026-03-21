@@ -29,5 +29,9 @@ Coombs yleensä -.
 ## Lääketrombosytopenia
 ![laaketrombosytopenia](img/laaketrombosytopenia.png)
 
+Romiplotim (TPO agonisti) vähentää huomattavasti oksaaliplatiiniin liittyvää trombosytopeniaa. [^100]
+
 
 [^1]: https://hematology.fi/hoito-ohjeet/hoito-ohje-1-2/husn-suosituksia/tromboottinen-trombosytopeeninen-purppura-ttp/
+
+[^100]: 10.1056/NEJMoa2511882
