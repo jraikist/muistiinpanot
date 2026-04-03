@@ -9,6 +9,7 @@ Täällä on eri checklistejä
 -AK lääkitys
 -Nestetavoite
 -Vitaalit kuinka monta kertaa päivässä?
+-telemetria?
 -SpO2%, sekä RR tavoite
 -Syömättä tai juomatta?
 -Seuraavan aamun labrat
