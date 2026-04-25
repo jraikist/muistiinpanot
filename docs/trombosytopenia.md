@@ -6,6 +6,9 @@
 
 ## HIT
 
+![HIT_4T_score](img/HIT_4T_score.jpg)
+[^2]
+
 ## TTP
 Tromboottisissa mikroangiopatioissa verisuonten seinämät hajottavat trombosyyttejä. Myös erytrosyytit ottavat osumaa -> skistiosyytit.
 
@@ -33,5 +36,7 @@ Romiplotim (TPO agonisti) vähentää huomattavasti oksaaliplatiiniin liittyvä�
 
 
 [^1]: https://hematology.fi/hoito-ohjeet/hoito-ohje-1-2/husn-suosituksia/tromboottinen-trombosytopeeninen-purppura-ttp/
+
+[^2]: fimlab
 
 [^100]: 10.1056/NEJMoa2511882
