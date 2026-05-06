@@ -14,3 +14,7 @@
 ![Ensi-ilmoitus sivu 1](img/munuaissiirre_ensi_ilmoitus_s1.png)
 
 ![Ensi-ilmoitus sivu 2](img/munuaissiirre_ensi_ilmoitus_s2.png)
+
+## Peritoneaalidialyysi
+
+[ISPD Guidelines](https://ispd.org/guidelines)
