@@ -16,5 +16,5 @@ Alteplaasi 100mg korkeaan riskiin, 50mg voi harkita medium riskiin
 Keuhkoveritulppa tulppa noac
 
 
-[^100]: 10.1056/NEJMoa2516567
+[^100]: https://doi.org/10.1056/NEJMoa2516567
 [^101]: https://doi.org/10.15420/usc.2016.10.1.30

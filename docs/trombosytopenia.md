@@ -39,4 +39,4 @@ Romiplotim (TPO agonisti) vähentää huomattavasti oksaaliplatiiniin liittyvä�
 
 [^2]: fimlab
 
-[^100]: 10.1056/NEJMoa2511882
+[^100]: https://doi.org/10.1056/NEJMoa2511882

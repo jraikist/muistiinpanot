@@ -15,5 +15,5 @@ Vaurioista: https://www.duodecimlehti.fi/xmedia/duo/duo17556.pdf. [^2]
 
 [^1]: SSLY lapin kokous 2026 - Perttu Arkkila
 [^2]: https://www.duodecimlehti.fi/xmedia/duo/duo17556.pdf - Lääkkeiden aiheuttamat maksavauriot
-[^100]: 10.1056/NEJMra1914900 - NEJM acute-on-chronic 2020 
-[^101]: 10.1056/NEJMra1816149 - Nejm 2019 - Drug-Induced Liver Injury — Types and Phenotypes
+[^100]: https://doi.org/10.1056/NEJMra1914900 - NEJM acute-on-chronic 2020 
+[^101]: https://doi.org/10.1056/NEJMra1816149 - Nejm 2019 - Drug-Induced Liver Injury — Types and Phenotypes
