@@ -21,5 +21,12 @@ EPO target Hb 115g/l
 
 ## Siirre
 Ohjeita löytyy: https://www.sny.fi/transplantaatio/
+Eläviä rokotteita ei saisi antaa.
+Akuutti infektio:
+-Kystiittiiä voi hoitaa pidempäänkin, ad. 14vrk jo alle 6kk transplantaatiosta.[^2]
+-Neutropenia täytyypi tarkistella.
+-Hyljinnänestolääkitystä ei lähtökohtaisesti tauoteta! Vaikea covid-19, sepsis, niin mykofenolaattia voi puolittaa/tauottaa harkinnan mukaan. Takrolimuusia ei tauoteta.[^3]
 
 [^1]: https://kdigo.org/wp-content/uploads/2026/01/KDIGO-2026-Anemia-in-CKD-Guideline.pdf
+[^2]: uptodate - Urinary tract infection in kidney transplant recipient
+[^3]: Nefrologi K. Luukinen
