@@ -12,6 +12,9 @@ Alteplaasi 100mg korkeaan riskiin, 50mg voi harkita medium riskiin
 
 [^101]
 
+### jälkihoito
+Kuukauden lentokielto
+
 ## tagit
 Keuhkoveritulppa tulppa noac
 
