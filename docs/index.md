@@ -4,7 +4,7 @@ Tervetuloa! Lista Jaakon muistiinpanoista.
 
 ## Sivut
 
-- [Leukemia](Leukemia.md)
+- [Leukemia](docs/Leukemia.md)
 - [Niv](NIV.md)
 - [Dialyysi](dialyysi.md)
 - [Dyslipidemia](dyslipidemia.md)
