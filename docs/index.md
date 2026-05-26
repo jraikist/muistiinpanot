@@ -4,7 +4,7 @@ Tervetuloa! Lista Jaakon muistiinpanoista.
 
 ## Sivut
 
-- [Leukemia](docs/Leukemia.md)
+- [Leukemia](Leukemia.md)
 - [Niv](NIV.md)
 - [Dialyysi](dialyysi.md)
 - [Dyslipidemia](dyslipidemia.md)
@@ -18,10 +18,12 @@ Tervetuloa! Lista Jaakon muistiinpanoista.
 - [Monoklonaalinen Gammapatia](monoklonaalinen_gammapatia.md)
 - [Muistilista](muistilista.md)
 - [Munuaisten Vajaatoiminta](munuaisten_vajaatoiminta.md)
+- [Myelooma](myelooma.md)
 - [Nestehoito](nestehoito.md)
 - [Noac](noac.md)
 - [Perinnollisyys](perinnollisyys.md)
 - [Polymyalgia Rheumatica](polymyalgia_rheumatica.md)
+- [Sepelvaltimotauti](sepelvaltimotauti.md)
 - [Sibo](sibo.md)
 - [Tietoa](tietoa.md)
 - [Toksiset Maksavauriot](toksiset_maksavauriot.md)
