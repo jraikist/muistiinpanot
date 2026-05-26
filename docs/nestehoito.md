@@ -18,6 +18,12 @@ Teduglutidi, eli GLP2 analogi kasvattaa suolta.
 
 ![Menetys ja korvausliuos](img/nestehoito_korvausliuos_taulukko.jpeg)
 
+[^2]
+
 ## Sepsis
 
 ![Sepsis nestehoito ja vasopressori-workflow](img/sepsis_nestehoito_workflow.jpeg)
+
+[^2]
+
+[^2]: el. Koivumäki - 26.5.2026
