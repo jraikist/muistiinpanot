@@ -11,3 +11,13 @@ Teduglutidi, eli GLP2 analogi kasvattaa suolta.
 
 
 [^1]: SSLY 2026 Lapin kokous Sampsa Pikkarainen
+
+## Nestehoidossa käytettävät liuokset
+
+![Nestehoidossa käytettävät liuokset](img/nestehoito_liuokset_taulukko.jpeg)
+
+![Menetys ja korvausliuos](img/nestehoito_korvausliuos_taulukko.jpeg)
+
+## Sepsis
+
+![Sepsis nestehoito ja vasopressori-workflow](img/sepsis_nestehoito_workflow.jpeg)
