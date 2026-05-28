@@ -11,6 +11,18 @@ Diagnostiset pääkriteerit PVL:lle:
 
 MIPSS-PV ennustelaskuri
 
+## Essentielli trombosytoosi
+
+Riskistratifikaatio
+	-High risk: Tromboosihistoria TAI >60v ja JAK2 V617F +
+	-Intermediate risk: Ikä yli 60 ja ei korkean riskin potilas.
+	-Low risk: Alle 60v, JAK2 V617F +, ei trombeja.
+	-Alle 60, ei JAK2, ei trombia.
+
+## Tagit
+PV polysytemia vera trombosyytti trombo JAK JAK2
+
+
 ![ET_hoito](img/ET_hoito.png)
 
 
