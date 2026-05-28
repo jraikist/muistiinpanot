@@ -4,6 +4,7 @@ Tervetuloa! Lista Jaakon muistiinpanoista.
 
 ## Sivut
 
+- [Aiha](AIHA.md)
 - [Leukemia](Leukemia.md)
 - [Niv](NIV.md)
 - [Dialyysi](dialyysi.md)

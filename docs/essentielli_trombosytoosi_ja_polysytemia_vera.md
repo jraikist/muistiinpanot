@@ -8,7 +8,11 @@ Diagnostiset pääkriteerit PVL:lle:
 -Luuydinbiopsiassa soluylimäärää ja kolmen linjan profileraatio, myeloosilinja
 -JAK2 V617F mutaatio
 
+## Polysytemia vera
 
+Riskistratifikaatio: 
+	-High risk: >60v, TAI trombihistoria
+	-Low risk: Muut
 MIPSS-PV ennustelaskuri
 
 ## Essentielli trombosytoosi
